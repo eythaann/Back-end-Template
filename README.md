@@ -1,6 +1,3 @@
-# Movie-Rating-App
-Aplicacion de rating de peliculas con el Stack MERN: mysql, express, react, nodejs y Typescript.
-
 
 #### Antes de ejecutar cualquiera de los siguientes apartados no olvidemos ejecutar `npm install`
 ## Produccion
